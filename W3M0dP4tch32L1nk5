@@ -27,5 +27,8 @@
 <1.1.7><m09yanlvxr6aa3sj22wyv><thy14zz9yinrb9cxrcq7yet9y><BAT>
 <1.1.7><o1r18jz1g4wfg6ntypi56><bq9c0x8o1bw2zxyfm98fzc7mh><EXE>
 <1.1.7><hl0t2cva67vil9tufdmz6><iwa8sn6pg4m48zid7rkza6gbx><INSTALLER>
-#<LastVersion><1.1.7><[97m- Last version is now detected by hight version number&echo [90m   The proper way where 8.10.10 is bigger than 8.10.9&echo [97m - The app.asar version is now detected&echo [97m - Fix @rejet25984 method for old and new releases&echo [90m   Like 8.3.18 and 8.10.4 for example&echo [97m - Fix some issues in code[0m>
-#<Message_OFF>< [92mHave A Nice Day![0m>
+<1.1.8><yhtvbjfyvjt78go1k2gol><pejfuomi4oo6g60pvp4loovic><BAT>
+<1.1.8><mek01mtefggl8zjtryzg2><e7a1z3bkz1hbd908fopud6l40><EXE>
+<1.1.8><3sesyj7x9fsupsb2yiv9b><4ns2eaivnmnsrs3csobc20q19><INSTALLER>
+#<LastVersion><1.1.8><[97m- Add checker and downloader for W3M0dP4tch32 updates&echo [90m   On start it will check if exist any new version.[0m>
+#<Message_ON>< [92mHave A Nice Day![0m>
