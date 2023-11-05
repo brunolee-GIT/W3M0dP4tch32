@@ -33,5 +33,8 @@
 <1.1.9><aqrf4pdi6arnlzyjlboq7><gcfn95vca3mbe8ra8jyzfao27><BAT>
 <1.1.9><yzo5kkn074dobog9icuo0><57jfynaexo3pm62bg6mf0joo4><EXE>
 <1.1.9><x4n4lu1udy0opmrx7cv7s><1lxvppfr9k8krzuzka3z8gyi2><INSTALLER>
-#<LastVersion><1.1.9><[97m- Optimized W3M0d Portable&echo [90m   Now is full portable, Readme.txt for more details.&echo  [97m- Fixed little things in code[0m>
-#<Message_OFF>< [92mNO UPDATE NECESSARY&echo  [93mHave A Nice Day![0m>
+<1.2.0><zjya7ysrzjtner8qa0tk7><m11bbtom1hkykltcp2brak1oy><BAT>
+<1.2.0><fknmh9z8dthqyrmp8vht0><c62ro2is284b98dcyx5jjn1gw><EXE>
+<1.2.0><9mbbrgbdg7css17jszlki><6mt6wgkr6ul3qsewvfr31q98s><INSTALLER>
+#<LastVersion><1.2.0><[97m- Added the option to customize the username diplayed on W3M0d. [32m[suggested by @softkmo]&echo [90m   I made this to only work when the PRO rejet25984 method successfully applied.&echo  [97m- Added the option to remove/hide "remote" button. [32m[suggested by @softkmo]&echo [90m   This works for both PRO methods, when successfully applied.[0m>
+#<Message_ON>< [92mNEW UPDATE&echo  [93mUpdate is not mandatory![0m>
