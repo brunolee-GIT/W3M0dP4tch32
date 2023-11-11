@@ -37,4 +37,4 @@
 <1.2.0><fknmh9z8dthqyrmp8vht0><c62ro2is284b98dcyx5jjn1gw><EXE>
 <1.2.0><9mbbrgbdg7css17jszlki><6mt6wgkr6ul3qsewvfr31q98s><INSTALLER>
 #<LastVersion><1.2.0><[97m- Added the option to customize the username diplayed on W3M0d. [32m[suggested by @softkmo]&echo [90m   I made this to only work when the PRO rejet25984 method successfully applied.&echo  [97m- Added the option to remove/hide "remote" button. [32m[suggested by @softkmo]&echo [90m   This works for both PRO methods, when successfully applied.[0m>
-#<Message_ON>< [92mNEW UPDATE&echo  [93mUpdate is not mandatory![0m>
+#<Message_OFF>< [92mNEW UPDATE&echo  [93mUpdate is not mandatory![0m>
