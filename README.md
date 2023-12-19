@@ -13,6 +13,7 @@
 	Languages:
 		&nbsp;<i title="Deutsch">🇩🇪</i>
 		&nbsp;<i title="English">🇬🇧</i>
+		&nbsp;<i title="Spanish">🇪🇸</i>
 		&nbsp;<i title="Français">🇫🇷</i>
 		&nbsp;<i title="Português">🇵🇹</i>
 		&nbsp;<i title="Русский">🇷🇺</i>
