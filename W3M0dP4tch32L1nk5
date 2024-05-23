@@ -42,5 +42,8 @@
 <1.2.2><6og0bhqczr11omu4z5mbp><jr1o3xf67bmjsppbm8r8431ac><BAT>
 <1.2.2><g6sxwocan0m9xb8rsvhri><7o1nlgy7b6tjyf6t8mbog2vh4><EXE>
 <1.2.2><1unf91cnr233g5mfkzl7i><461uq44n6jlhfb2bzbhjk2ob3><INSTALLER>
-#<LastVersion><1.2.2><[97m- Added asar integrity patch [90m-Thanks [32m@Sak32009[0m>
+<1.2.3><l9y2yut35rnzjmdxt0os5><hiqcgw6an59ilfegxw7oeb9m2><BAT>
+<1.2.3><buu11zbxgc9v6xlxwdvo2><spetyu3s0bg231xo1m6xx0pq2><EXE>
+<1.2.3><u5cr1upe24j7fcc06y34l><gyx1z04810acrclqyw9zjw4pv><INSTALLER>
+#<LastVersion><1.2.3><[97m- Fixed script for non Latin "[90mWriting Systems[0m" on "[90mLanguage for non-Unicode programs[0m".[0m>
 #<Message_OFF>< [97m .     .      .     .      .      .&echo   .       . [93m+[97m    .      .  .  _   .&echo    .  [93m*[97m  . [91m.[32mA[91m.[97m       .  .   _[_]_&echo  .    .   [91m.[32mMMM[91m.[97m   .      .   (^"^)&echo    .   . [91m.[32mMMMMM[91m.[97m      .  `--( : ^)--'&echo    .    [91m.[32mMMMMMMM[91m.[97m   .     .(  :  ^)&echo  . ....    .[33mH[97m.   . ... . ""`-...-'""..[0m&echo  [4;107;91m MERRY CHRISTMAS and HAPPY NEW YEAR! [0m&echo.>
