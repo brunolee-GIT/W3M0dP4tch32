@@ -1,8 +1,8 @@
 # W3M0dP4tch32
 <p align="center">
-	<img width="400" src="https://i.imgur.com/XgIqJ4c.png">
-	<!--<img width="400" src="https://i.imgur.com/IM1reMY.png">-->
-	<img width="400" src="https://i.imgur.com/Ds7PBNU.png">
+	<a href="https://i.imgur.com/XgIqJ4c.png"><img width="400" src="https://i.imgur.com/XgIqJ4c.png"></a>
+	<!--<a href="https://i.imgur.com/IM1reMY.png"><img width="400" src="https://i.imgur.com/IM1reMY.png"></a>-->
+	<a href="https://i.imgur.com/Ds7PBNU.png"><img width="400" src="https://i.imgur.com/Ds7PBNU.png"></a>
 </p>
 
 <p align="center">
