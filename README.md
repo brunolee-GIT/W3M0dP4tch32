@@ -25,4 +25,6 @@
 
 ## Download
 
-You can download on the [**releases page**](https://github.com/brunolee-GIT/W3M0dP4tch32/releases).
+You can download on the [**releases page**](https://github.com/brunolee-GIT/W3M0dP4tch32/releases).<br>
+`W3M0dP4tch32` [**last release**](https://github.com/brunolee-GIT/W3M0dP4tch32/releases/latest)<br>
+`W3M0d` [**portable**](https://github.com/brunolee-GIT/W3M0dP4tch32/releases/tag/Portable)
