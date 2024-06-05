@@ -44,5 +44,5 @@ You can download on the [**releases page**](https://github.com/brunolee-GIT/W3M0
 ***
 
 <p align="center">
-	View <a style="font-size:2;" href="https://cs.rin.ru/forum/viewtopic.php?f=29&t=114927" title="cs.rin.ru">Steam Underground Community</a> forum.
+	View <a href="https://cs.rin.ru/forum/viewtopic.php?f=29&t=114927" title="cs.rin.ru">Steam Underground Community</a> forum.
 </p>
