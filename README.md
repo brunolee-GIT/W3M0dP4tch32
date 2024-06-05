@@ -23,8 +23,26 @@
 	<a href="https://www.paypal.me/brunoleeferreira"><img src="https://img.shields.io/badge/PayPal donate-buy me a coffee!-00457C?logo=PayPal" title="Donate Paypal"></a>
 </p>
 
-## Download
+***
 
+#### Script languages used:
+<p align="center">
+	<a href=""><img src="https://img.shields.io/badge/Window%20Terminal-4D4D4D?logo=windowsterminal&logoColor=white&labelColor=181717&style=plastic" title="Window Terminal"></a>&nbsp;
+	<a href=""><img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white&labelColor=181717&style=plastic" title="PowerShell"></a>&nbsp;
+	<a href=""><img src="https://img.shields.io/badge/HTML-3366CC?logo=htmx&logoColor=white&labelColor=181717&style=plastic" title="HTML"></a>&nbsp;
+	<a href=""><img src="https://img.shields.io/badge/Visual%20Basic-512BD4?logo=visualbasic&logoColor=white&labelColor=181717&style=plastic" title="Visual Basic"></a>&nbsp;
+	<a href=""><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&labelColor=181717&style=plastic" title="JavaScript"></a>
+</p>
+
+***
+
+### Download
 You can download on the [**releases page**](https://github.com/brunolee-GIT/W3M0dP4tch32/releases).<br>
 `W3M0dP4tch32` [**last release**](https://github.com/brunolee-GIT/W3M0dP4tch32/releases/latest)<br>
 `W3M0d` [**portable**](https://github.com/brunolee-GIT/W3M0dP4tch32/releases/tag/Portable)
+
+***
+
+<p align="center">
+	View <a style="font-size:2;" href="https://cs.rin.ru/forum/viewtopic.php?f=29&t=114927" title="cs.rin.ru">Steam Underground Community</a> forum.
+</p>
